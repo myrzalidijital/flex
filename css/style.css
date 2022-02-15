@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+a{
+    text-decoration: none;
+}
+#header{
+    position: absolute;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px);
+}
+
+.block{
+    display:flex;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+#hero{
+    background:url("../img/Baytik_poselok_.svg") no-repeat center/cover;
+    min-height: 100vh;
+}
+.big{
+    width:823px;
+    height:180px;
+
+}
+
+.hero__title {
+    padding-top: 300px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    Width :823px;
+    Height :180px;
+    left:300%;
+}
+*{margin: 0;padding: 0;}
+ul,ol,li{list-style: none}
+a:hover{text-decoration: none}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+
+}
+.about__title{
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #253659;
+}
+.about__desk{
+    margin-top: 10px;
+    padding: 0 70px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #253659;
+}
+
+.item__title{
+    margin-top: 10px;
+    font-family: sans-serif;
+    width: 180px;
+    font-size:13px ;
+}
+.about__items{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.about__item{
+    text-align: center;
+    width: 160px;
+}
+#about-company{
+    margin-top: 100px;
+    background: url("../img/Baytik_poselok_.svg") no-repeat center/cover;
+}
+.about-company__title{
+    font-family: Raleway sans-serif;
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.about-company__items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.about-company__item{
+    position: relative;
+    width: 400px;
+    height: 240px;
+    background: rgba(37, 54, 89, 0.8);
+    backdrop-filter: blur(10px);
+}
+.item__marat{
+    position: absolute;
+    top: -50px;
+    left: -50px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
